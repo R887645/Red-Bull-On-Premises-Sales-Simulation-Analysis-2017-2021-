@@ -14,9 +14,13 @@ The results not only highlight key business insights but also demonstrate how da
 Data preparation accounted for 30% of the total project time and was crucial for ensuring accuracy. Using Power Query, I performed the following steps:
 
 **1. Removed duplicates and null values:** Eliminated 32 incomplete records.
+
 **2. Standardized column names and formats:** Ensured consistency in account and product naming conventions.
+
 **3. Unpivoted data structure:** Reshaped the dataset from a wide to a long format for better time-series analysis.
+
 **4. Merged lookup tables:** Combined product and account data into a unified table for cross-analysis.
+
 **5. Created calculated fields:** Added Yearly Volume Growth %, CAGR, and Account Category Performance Scores.
 
 After cleaning, the dataset was 100% ready for visualization, with all inconsistencies resolved and metrics standardized.
