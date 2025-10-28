@@ -12,6 +12,7 @@ The results not only highlight key business insights but also demonstrate how da
 
 # Data Cleaning and Transformation
 Data preparation accounted for 30% of the total project time and was crucial for ensuring accuracy. Using Power Query, I performed the following steps:
+
 **1. Removed duplicates and null values:** Eliminated 32 incomplete records.
 **2. Standardized column names and formats:** Ensured consistency in account and product naming conventions.
 **3. Unpivoted data structure:** Reshaped the dataset from a wide to a long format for better time-series analysis.
@@ -23,6 +24,7 @@ After cleaning, the dataset was 100% ready for visualization, with all inconsist
 # Exploratory Data Analysis (EDA)
 EDA involved identifying general sales trends and relationships within the data using PivotTables and charts.
 **Key exploratory findings:**
+
 - Sales consistently increased across all account types, indicating expanding brand penetration.
 - Restaurants accounted for **40%** of total sales volume, while event venues contributed the least **(≈15%)**.
 - Product lines targeting nightlife consumers (e.g., Red Bull Energy Drink 250ml) showed higher repeat purchase rates.
