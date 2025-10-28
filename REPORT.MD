@@ -23,6 +23,7 @@ After cleaning, the dataset was 100% ready for visualization, with all inconsist
 
 # Exploratory Data Analysis (EDA)
 EDA involved identifying general sales trends and relationships within the data using PivotTables and charts.
+
 **Key exploratory findings:**
 
 - Sales consistently increased across all account types, indicating expanding brand penetration.
@@ -49,7 +50,7 @@ EDA involved identifying general sales trends and relationships within the data 
 
 **- Average Annual Growth (CAGR):** ≈ 21%
 
-**- Peak Growth Year: 2018 (+28%)
+**- Peak Growth Year:** 2018 (+28%)
 
 **- Sustained Growth (2019–2021):** Averaged **17–21% YoY**
 
@@ -62,6 +63,7 @@ EDA involved identifying general sales trends and relationships within the data 
 **- Promotional Impact:** Accounts with active marketing support saw a **30–35%** higher YoY growth than non-promoted accounts.
 
 # Recommendations
+
 **1. Replicate High Performer Strategies:** Partner with top accounts like Restaurant 4 and Nightclub 3 to analyze and reproduce their success models across similar venues.
 
 **2. Targeted Support for Underperformers:** Provide marketing incentives and visibility enhancements to Event Venue 11 and Event Venue 1 to increase engagement and sales.
@@ -77,8 +79,11 @@ EDA involved identifying general sales trends and relationships within the data 
 Selecting appropriate chart colors that balanced readability and brand tone was initially difficult. However, by using Coolors.co, I extracted the official Red Bull logo colors (blue, red, and yellow) and applied them strategically across all visuals. 
 
 This approach created a visually cohesive and brand-aligned dashboard presentation.
+
 **[View My Dashboard](https://docs.google.com/spreadsheets/d/1bHvHMlHadukBplga91GGFfTBl1g8o9M6/edit?usp=sharing&ouid=105969879621733377372&rtpof=true&sd=true)**
+
 # Results and Achievements
+
 - Built a fully automated Excel dashboard with 7 dynamic visual components.
 - Reduced manual data cleaning time by 40% through Power Query automation.
 - Delivered a data accuracy rate of 99.8% post-cleaning.
