@@ -28,6 +28,7 @@ EDA involved identifying general sales trends and relationships within the data 
 - Product lines targeting nightlife consumers (e.g., Red Bull Energy Drink 250ml) showed higher repeat purchase rates.
 
 # Key Metrics and Calculations
+
 **- Total Volume by Account Type and Year**
 **- Overall Volume Trend by Year (Line Chart)**
 **- Volume by Product Line (Bar Chart)**
@@ -36,6 +37,7 @@ EDA involved identifying general sales trends and relationships within the data 
 **CAGR Calculation:[CAGR = \left(\frac{{6820}}{{3166}}\right)^{\frac{1}{4}} - 1 ≈ 21%]**
 
 # Insights and Findings
+
 **- Overall Growth (2017–2021):** +85%
 **- Average Annual Growth (CAGR):** ≈ 21%
 **- Peak Growth Year: 2018 (+28%)
