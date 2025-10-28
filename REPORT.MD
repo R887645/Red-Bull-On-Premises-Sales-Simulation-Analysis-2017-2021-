@@ -36,15 +36,15 @@ EDA involved identifying general sales trends and relationships within the data 
 
 # Key Metrics and Calculations
 
-**- Total Volume by Account Type and Year**
+- Total Volume by Account Type and Year
 
-**- Overall Volume Trend by Year (Line Chart)**
+- Overall Volume Trend by Year (Line Chart)
 
-**- Volume by Product Line (Bar Chart)**
+- Volume by Product Line (Bar Chart)
 
-**- Best & Worst Performing Accounts (Ranked Table)**
+- Best & Worst Performing Accounts (Ranked Table)
 
-**- Marketing / Promotion Effectiveness (Correlation Analysis)**
+- Marketing / Promotion Effectiveness (Correlation Analysis)
 
 **CAGR Calculation:[CAGR = \left(\frac{{6820}}{{3166}}\right)^{\frac{1}{4}} - 1 ≈ 21%]**
 
