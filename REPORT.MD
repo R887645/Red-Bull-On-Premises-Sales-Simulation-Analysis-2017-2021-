@@ -32,21 +32,33 @@ EDA involved identifying general sales trends and relationships within the data 
 # Key Metrics and Calculations
 
 **- Total Volume by Account Type and Year**
+
 **- Overall Volume Trend by Year (Line Chart)**
+
 **- Volume by Product Line (Bar Chart)**
+
 **- Best & Worst Performing Accounts (Ranked Table)**
+
 **- Marketing / Promotion Effectiveness (Correlation Analysis)**
+
 **CAGR Calculation:[CAGR = \left(\frac{{6820}}{{3166}}\right)^{\frac{1}{4}} - 1 ≈ 21%]**
 
 # Insights and Findings
 
 **- Overall Growth (2017–2021):** +85%
+
 **- Average Annual Growth (CAGR):** ≈ 21%
+
 **- Peak Growth Year: 2018 (+28%)
+
 **- Sustained Growth (2019–2021):** Averaged **17–21% YoY**
+
 **- Sales Volume:** Rose from **3,166 (2017) to 6,820 (2021)** with a cumulative total of 17,770,176 units sold.
+
 **- Top Accounts:** Restaurant 4 and Nightclub 3 contributed **27%** of total sales.
+
 **- Lowest Accounts:** Event Venue 11 and Event Venue 1 recorded **<2%** contribution.
+
 **- Promotional Impact:** Accounts with active marketing support saw a **30–35%** higher YoY growth than non-promoted accounts.
 
 # Recommendations
@@ -65,7 +77,7 @@ EDA involved identifying general sales trends and relationships within the data 
 Selecting appropriate chart colors that balanced readability and brand tone was initially difficult. However, by using Coolors.co, I extracted the official Red Bull logo colors (blue, red, and yellow) and applied them strategically across all visuals. 
 
 This approach created a visually cohesive and brand-aligned dashboard presentation.
-
+**[View My Dashboard](https://docs.google.com/spreadsheets/d/1bHvHMlHadukBplga91GGFfTBl1g8o9M6/edit?usp=sharing&ouid=105969879621733377372&rtpof=true&sd=true)**
 # Results and Achievements
 - Built a fully automated Excel dashboard with 7 dynamic visual components.
 - Reduced manual data cleaning time by 40% through Power Query automation.
