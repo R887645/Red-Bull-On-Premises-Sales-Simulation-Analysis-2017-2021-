@@ -89,7 +89,7 @@ This approach created a visually cohesive and brand-aligned dashboard presentati
 # Project Results
 Here’s what the data revealed after five years of tracking performance (2017–2021):
 
-- Overall sales grew by 85% — meaning Red Bull nearly doubled its on-premise sales volume during this period.
+- Overall sales grew by 85%, meaning Red Bull nearly doubled its on-premise sales volume during this period.
 
 - Compound Annual Growth Rate (CAGR) stood at 21%, showing a consistent average yearly increase — not just one-off spikes.
 
