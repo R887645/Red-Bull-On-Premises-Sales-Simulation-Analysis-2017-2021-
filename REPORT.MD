@@ -86,7 +86,20 @@ This approach created a visually cohesive and brand-aligned dashboard presentati
 
 **[View My Dashboard](https://docs.google.com/spreadsheets/d/1bHvHMlHadukBplga91GGFfTBl1g8o9M6/edit?usp=sharing&ouid=105969879621733377372&rtpof=true&sd=true)**
 
-# Results and Achievements
+# Project Results
+Here’s what the data revealed after five years of tracking performance (2017–2021):
+
+- Overall sales grew by 85% — meaning Red Bull nearly doubled its on-premise sales volume during this period.
+
+- Compound Annual Growth Rate (CAGR) stood at 21%, showing a consistent average yearly increase — not just one-off spikes.
+
+- Restaurants led with 40% of total sales volume, making them the strongest performing channel overall.
+
+- Event venues contributed less than 2%, indicating that this segment underperformed and has room for improvement.
+
+- Promoted accounts recorded 30–35% higher year-over-year growth, confirming that marketing promotions significantly boosted sales outcomes.
+
+# Personal Results and Achievements
 
 - Built a fully automated Excel dashboard with 7 dynamic visual components.
 - Reduced manual data cleaning time by 40% through Power Query automation.
